@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/almarpuitweb/static/css/main.60d4b9b4.css",
+    "main.js": "/almarpuitweb/static/js/main.337aa4c7.js",
+    "index.html": "/almarpuitweb/index.html",
+    "main.60d4b9b4.css.map": "/almarpuitweb/static/css/main.60d4b9b4.css.map",
+    "main.337aa4c7.js.map": "/almarpuitweb/static/js/main.337aa4c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d4b9b4.css",
+    "static/js/main.337aa4c7.js"
+  ]
+}
