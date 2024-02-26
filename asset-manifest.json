@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/almarpuitweb/static/css/main.60d4b9b4.css",
-    "main.js": "/almarpuitweb/static/js/main.1e2166f0.js",
+    "main.js": "/almarpuitweb/static/js/main.f3e4b715.js",
     "index.html": "/almarpuitweb/index.html",
     "main.60d4b9b4.css.map": "/almarpuitweb/static/css/main.60d4b9b4.css.map",
-    "main.1e2166f0.js.map": "/almarpuitweb/static/js/main.1e2166f0.js.map"
+    "main.f3e4b715.js.map": "/almarpuitweb/static/js/main.f3e4b715.js.map"
   },
   "entrypoints": [
     "static/css/main.60d4b9b4.css",
-    "static/js/main.1e2166f0.js"
+    "static/js/main.f3e4b715.js"
   ]
 }
